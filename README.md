@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdrejawl
 - 👀 I’m interested in C,C++,Java,Python,Php,JavaScript etc
-- 🌱 I’m currently learning C++,Java,Python,
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++,Java,Python,php & JavaScript
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
